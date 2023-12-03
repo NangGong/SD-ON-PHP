@@ -1,0 +1,9 @@
+{
+  "domain": "api.openai.com",
+  "key": [
+    "随便填，COW项目中的dalle的key填这个"
+  ],
+  "openai_key": [
+      "这个填写官方openai的key"
+  ]
+}
