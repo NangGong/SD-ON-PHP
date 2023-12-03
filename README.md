@@ -1,6 +1,6 @@
-##该代码是配合toolbox插件使用的
+## 该代码是配合toolbox插件使用的
 
-###安装
+### 安装
 - 把整个文件放到站点根目录
 - 设置伪静态
 ```
@@ -14,7 +14,7 @@ location / {
 - 设置运行目录public
 - 申请ssl证书强制开启https
   
-###配置dalle
+### 配置dalle
 
 - 打开api/dalle目录打开config.json
 ```
